@@ -1,7 +1,7 @@
 # Master Hamster Kombat Bot!
 
-[![GitHub stars](https://img.shields.io/github/stars/masterking32/MasterHamsterKombatBot.svg)](https://github.com/masterking32/MasterHamsterKombatBot/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/masterking32/MasterHamsterKombatBot.svg)](https://github.com/masterking32/MasterHamsterKombatBot/issues)
+[![GitHub stars](https://img.shields.io/github/stars/devCarlosHenSil/MasterHamsterKombatBot.svg)](https://github.com/devCarlosHenSil/MasterHamsterKombatBot/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/devCarlosHenSil/MasterHamsterKombatBot.svg)](https://github.com/devCarlosHenSil/MasterHamsterKombatBot/issues)
 
 <hr>
 
@@ -9,7 +9,7 @@ Master Hamster Kombat Bot is a Python-based automation tool specifically designe
 
 ❌ This project is intended for testing purposes only. Please refrain from abusing it. ❌
 
-⚠️ Please use GitHub [Discussions](https://github.com/masterking32/MasterHamsterKombatBot/discussions) and [Issues](https://github.com/masterking32/MasterHamsterKombatBot/issues) to report problems and engage in discussions with others about the project. Don't forget to star and watch the project to receive notifications for new updates. ⚠️
+⚠️ Please use GitHub [Discussions](https://github.com/devCarlosHenSil/MasterHamsterKombatBot/discussions) and [Issues](https://github.com/devCarlosHenSil/MasterHamsterKombatBot/issues) to report problems and engage in discussions with others about the project. Don't forget to star and watch the project to receive notifications for new updates. ⚠️
 
 <hr>
 
@@ -55,7 +55,7 @@ pip install requests colorlog
 - Copy the `config.py.example` file to `config.py`.
 
 - Locate your `Authorization Bearer token` and place it in the `config.py` file. [How to Obtain a Token and Set Up the Bot?](https://www.youtube.com/watch?v=cjWE7DmMFgw)
-- [Find your device's UserAgent](https://github.com/masterking32/MasterHamsterKombatBot/blob/main/useful_files/user-agents.md) and place it in the `config.py` file.
+- [Find your device's UserAgent](https://github.com/devCarlosHenSil/MasterHamsterKombatBot/blob/main/useful_files/user-agents.md) and place it in the `config.py` file.
 - Configure accounts
 
 4. Execute the command `py main.py`.
@@ -65,7 +65,7 @@ pip install requests colorlog
 
 ## 💻 Update to the Latest Version
 
-This option only works if you have Git installed on your system and you downloaded the project using the command: `git clone https://github.com/masterking32/MasterHamsterKombatBot`. If you downloaded the project as a zip file, simply re-download and replace all files.
+This option only works if you have Git installed on your system and you downloaded the project using the command: `git clone https://github.com/devCarlosHenSil/MasterHamsterKombatBot`. If you downloaded the project as a zip file, simply re-download and replace all files.
 
 1. Run the following command: `git pull origin main`
 2. Update the configuration file if needed.
@@ -86,16 +86,16 @@ You can buy proxies from <a href="https://www.webshare.io/?referral_code=2ghmowz
 💵 If you're a fan of our project and want to support us, consider donating crypto. Your support will help us improve and expand, providing even more value to our users. Thank you for your generosity! 💵
 
 TON:
-`UQDdtN_p3WwuGMVXtMasatomVNPJF-Ljscy0srozJZBl15eL`
+``
 
 EVM-compatible blockchains:
-`0x517f07305D6ED781A089322B6cD93d1461bF8652`
+``
 
 TRC20 chain:
-`TLApdY8APWkFHHoxebxGY8JhMeChiETqFH`
+``
 
 RONIN Chain:
-`masterking.ron`
+`
 
 <hr>
 
@@ -109,10 +109,10 @@ RONIN Chain:
 
 # Encountered an Issue or Problem?
 
-Feel free to [open a new issue](https://github.com/masterking32/MasterHamsterKombatBot/issues) if you encounter any problems or start a new discussion in the [discussions](https://github.com/masterking32/MasterHamsterKombatBot/discussions) section.
+Feel free to [open a new issue](https://github.com/devCarlosHenSil/MasterHamsterKombatBot/issues) if you encounter any problems or start a new discussion in the [discussions](https://github.com/devCarlosHenSil/MasterHamsterKombatBot/discussions) section.
 
 ---
 
-Developed By [MasterkinG32](https://github.com/masterking32)
+Developed By [LendaryStark](https://github.com/devCarlosHenSil)
 
 <hr>
