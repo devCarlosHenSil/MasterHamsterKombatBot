@@ -1,6 +1,6 @@
-# Developed by: MasterkinG32
+# Developed by: LendaryInvest
 # Date: 2024
-# Github: https://github.com/masterking32
+# Github: https://github.com/devCarlosHenSil
 
 import asyncio
 import datetime
@@ -1497,9 +1497,9 @@ def main():
     log.info("------------------------------------------------------------------------")
     log.info("\033[1;32mWelcome to [Master Hamster Kombat] Auto farming bot...\033[0m")
     log.info(
-        "\033[1;34mProject Github: https://github.com/masterking32/MasterHamsterKombatBot\033[0m"
+        "\033[1;34mProject Github: https://github.com/devCarlosHenSil/MasterHamsterKombatBot\033[0m"
     )
-    log.info("\033[1;33mDeveloped by: MasterkinG32\033[0m")
+    log.info("\033[1;33mDeveloped by: LendaryStarkG32\033[0m")
     log.info("\033[1;35mVersion: 2.3\033[0m")
     log.info("\033[1;36mTo stop the bot, press Ctrl + C\033[0m")
     log.info("------------------------------------------------------------------------")
